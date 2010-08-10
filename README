@@ -1,0 +1,29 @@
+GEB - Gödel, Escher, Bach
+=========================
+
+This is my fable attempt to collect some ideas I got while reading the
+awesome book `Gödel, Escher, Bach: An Eternal Golder Braid' by Douglas
+R. Hofstadter (http://www.amazon.com/dp/0394756827).
+
+crab.py
+-------
+
+CRAB - CRAB Recursive Acronym Broadener
+
+"A recursive acronym [...] is an acronym that refers to itself in the
+expression for which it stands."
+- http://en.wikipedia.org/wiki/Recursive_acronym
+
+The name of the program itself is a recursive acronym (naturally) and
+also a word play with the Crab character appearing in the dialogues of
+the book.
+
+quine.c
+-------
+
+A Quine (program that outputs its own source code) written in C.
+
+quine.py
+--------
+
+A Quine written in Python.
